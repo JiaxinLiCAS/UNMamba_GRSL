@@ -1,4 +1,9 @@
 # UNMamba: Cascaded Spatial-Spectral Mamba for Blind Hyperspectral Unmixing
+
+# $\color{red}{我的微信(WeChat): BatAug，欢迎交流与合作}$
+
+[Dong Chen](https://github.com/Preston-Dong), [Junping Zhang](https://homepage.hit.edu.cn/zhangjunping), [Jiaxin Li](https://www.researchgate.net/profile/Li-Jiaxin-20)(李嘉鑫)
+
 This paper has been accpeted by IEEE Geoscience and Remote Sensing Letters (GRSL) and can be downloaded [here](https://ieeexplore.ieee.org/document/10902420).
 # Getting Started
 
