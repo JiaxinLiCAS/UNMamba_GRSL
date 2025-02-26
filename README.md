@@ -8,8 +8,8 @@ Specifically, UNMamba first captures long-range spatial dependencies, followed b
 ![Framework of the proposed UNMamba.](figs/framework.png)
 
 ## Results on Jasper Ridge
-![Estimated abundances on the Jasper Ridge dataset. (a)-(k) GT, FCLSU, SNMF-Net, DAEU, SIDAEU, MLAEM, DeepTrans, MLM-1DAE, A2SN, A2SAN and UNMamba.](figs/JR_abun_small_new.png)
-
+![Estimated abundances on the Jasper Ridge dataset.](figs/JR_abun_small_new.png)
+(a)-(k) GT, FCLSU, SNMF-Net, DAEU, SIDAEU, MLAEM, DeepTrans, MLM-1DAE, A2SN, A2SAN and UNMamba.
 
 ## Installation
 
